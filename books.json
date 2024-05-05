@@ -1,0 +1,202 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "ISBN": "978-0-06-112008-4",
+    "publication_year": 1960,
+    "quantity": 5
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "ISBN": "978-0-452-28423-4",
+    "publication_year": 1949,
+    "quantity": 3
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "ISBN": "978-1-4043-0484-3",
+    "publication_year": 1813,
+    "quantity": 7
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "ISBN": "978-0-316-76948-0",
+    "publication_year": 1951,
+    "quantity": 4
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "genre": "Modernist",
+    "ISBN": "978-0-15-690739-2",
+    "publication_year": 1927,
+    "quantity": 6
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "ISBN": "978-0-06-112008-4",
+    "publication_year": 1960,
+    "quantity": 5
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "ISBN": "978-0-452-28423-4",
+    "publication_year": 1949,
+    "quantity": 3
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "ISBN": "978-1-4043-0484-3",
+    "publication_year": 1813,
+    "quantity": 7
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "ISBN": "978-0-316-76948-0",
+    "publication_year": 1951,
+    "quantity": 4
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "genre": "Modernist",
+    "ISBN": "978-0-15-690739-2",
+    "publication_year": 1927,
+    "quantity": 6
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "ISBN": "978-3-16-148410-0",
+    "publication_year": 1925,
+    "quantity": 8
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "ISBN": "978-1-4209-5001-7",
+    "publication_year": 1851,
+    "quantity": 3
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "ISBN": "978-1-86977-754-0",
+    "publication_year": 1869,
+    "quantity": 10
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "ISBN": "978-0-618-22442-7",
+    "publication_year": 1937,
+    "quantity": 5
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "ISBN": "978-0-7679-2537-3",
+    "publication_year": 2003,
+    "quantity": 6
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "ISBN": "978-0-345-33968-3",
+    "publication_year": 1954,
+    "quantity": 9
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "ISBN": "978-0-06-023481-2",
+    "publication_year": 1950,
+    "quantity": 7
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "ISBN": "978-0-7475-3269-6",
+    "publication_year": 1997,
+    "quantity": 11
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "Science Fiction",
+    "ISBN": "978-0-330-25864-8",
+    "publication_year": 1979,
+    "quantity": 6
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "ISBN": "978-0-316-76948-0",
+    "publication_year": 1951,
+    "quantity": 4
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "ISBN": "978-0-385-12167-5",
+    "publication_year": 1977,
+    "quantity": 8
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Gothic",
+    "ISBN": "978-1-84749-386-6",
+    "publication_year": 1890,
+    "quantity": 3
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic",
+    "ISBN": "978-0-486-28222-4",
+    "publication_year": 1818,
+    "quantity": 5
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "ISBN": "978-0-439-02348-1",
+    "publication_year": 2008,
+    "quantity": 10
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-Apocalyptic",
+    "ISBN": "978-0-307-26543-2",
+    "publication_year": 2006,
+    "quantity": 4
+  }
+]

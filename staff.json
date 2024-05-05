@@ -1,0 +1,51 @@
+[
+    {
+      "name": "John Smith",
+      "username": "john_smith",
+      "password": "J0hnSmi7hPwd!",
+      "permission": 0
+    },
+    {
+      "name": "Alice Johnson",
+      "username": "alice_johnson",
+      "password": "Alic3Pwd!2022",
+      "permission": 0
+    },
+    {
+      "name": "Michael Brown",
+      "username": "michael_brown",
+      "password": "Br0wni3sPwd!",
+      "permission": 0
+    },
+    {
+      "name": "Jennifer Lee",
+      "username": "jennifer_lee",
+      "password": "L33Jennifer!",
+      "permission": 0
+    },
+    {
+      "name": "David Miller",
+      "username": "david_miller",
+      "password": "M1llerDav!d",
+      "permission": 0
+    },
+    {
+      "name": "Sarah Wilson",
+      "username": "sarah_wilson",
+      "password": "Wils0nSarah!",
+      "permission": 0
+    },
+    {
+      "name": "Admin1",
+      "username": "admin1",
+      "password": "Admin1Pwd!",
+      "permission": 1
+    },
+    {
+      "name": "Admin2",
+      "username": "admin2",
+      "password": "Admin2Pwd!",
+      "permission": 1
+    }
+  ]
+  

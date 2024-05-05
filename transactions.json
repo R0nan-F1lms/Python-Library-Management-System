@@ -1,0 +1,58 @@
+[
+  {
+    "member_id": "MEM123",
+    "book_id": "5ff09d865dfed5569f0bac99",
+    "transaction_type": "Borrow",
+    "borrow_date": "2024-04-01T00:00:00Z",
+    "return_date": "2024-04-15T00:00:00Z",
+    "actual_return_date": null
+  },
+  {
+    "member_id": "MEM456",
+    "book_id": "5ff0a3455dfed5569f0bac9b",
+    "transaction_type": "Borrow",
+    "borrow_date": "2024-04-05T00:00:00Z",
+    "return_date": "2024-04-20T00:00:00Z",
+    "actual_return_date": null
+  },
+  {
+    "member_id": "MEM789",
+    "book_id": "5ff0a3455dfed5569f0bac9b",
+    "transaction_type": "Borrow",
+    "borrow_date": "2024-04-10T00:00:00Z",
+    "return_date": "2024-04-25T00:00:00Z",
+    "actual_return_date": null
+  },
+  {
+    "member_id": "MEM012",
+    "book_id": "5ff09d865dfed5569f0bac99",
+    "transaction_type": "Borrow",
+    "borrow_date": "2024-04-15T00:00:00Z",
+    "return_date": "2024-04-30T00:00:00Z",
+    "actual_return_date": null
+  },
+  {
+    "member_id": "MEM345",
+    "book_id": "5ff09d865dfed5569f0bac99",
+    "transaction_type": "Borrow",
+    "borrow_date": "2024-04-20T00:00:00Z",
+    "return_date": "2024-05-05T00:00:00Z",
+    "actual_return_date": null
+  },
+  {
+    "member_id": "MEM678",
+    "book_id": "5ff0a3455dfed5569f0bac9b",
+    "transaction_type": "Borrow",
+    "borrow_date": "2024-04-25T00:00:00Z",
+    "return_date": "2024-05-10T00:00:00Z",
+    "actual_return_date": null
+  },
+  {
+    "member_id": "MEM901",
+    "book_id": "5ff09d865dfed5569f0bac99",
+    "transaction_type": "Borrow",
+    "borrow_date": "2024-04-30T00:00:00Z",
+    "return_date": "2024-05-15T00:00:00Z",
+    "actual_return_date": null
+  }
+]
